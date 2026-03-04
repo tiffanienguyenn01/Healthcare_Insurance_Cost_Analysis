@@ -1,4 +1,4 @@
-# Healthcare_Insurance_Cost_Analysis
+# Healthcare Insurance Cost Analysis
 
 ## Insight Statement
 The analysis examined helathcare insurance costs using SQL and Python to identify keu cpst drivers and build predictive models. Smoking status and BMI were found to significantly increase
